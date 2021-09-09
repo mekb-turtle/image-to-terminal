@@ -1,0 +1,11 @@
+{
+  "name": "show-image",
+  "description": "Show an image in the terminal",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mekb",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
