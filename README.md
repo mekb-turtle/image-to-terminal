@@ -1,4 +1,4 @@
-### image-to-terminal
+### show-image-terminal
 Show an image in the terminal
 
 Example:

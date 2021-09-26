@@ -1,5 +1,6 @@
 {
-  "name": "show-image",
+  "name": "show-image-terminal",
+  "version": "1.0.1",
   "description": "Shows an image in the terminal",
   "scripts": {
     "start": "node index.js"
