@@ -1,6 +1,6 @@
 {
   "name": "show-image-terminal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shows an image in the terminal",
   "scripts": {
     "start": "node index.js"
@@ -8,5 +8,24 @@
   "author": "mekb",
   "dependencies": {
     "jimp": "^0.16.1"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekb-turtle/image-to-terminal.git"
+  },
+  "keywords": [
+    "image",
+    "image-visualization",
+    "terminal",
+    "image-terminal",
+    "escape-code",
+    "terminal-color",
+    "terminal-colour"
+  ],
+  "bugs": {
+    "url": "https://github.com/mekb-turtle/image-to-terminal/issues"
+  },
+  "homepage": "https://github.com/mekb-turtle/image-to-terminal#readme"
 }
