@@ -1,6 +1,6 @@
 {
   "name": "show-image-terminal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shows an image in the terminal",
   "scripts": {
     "start": "node index.js"
@@ -24,6 +24,7 @@
     "terminal-color",
     "terminal-colour"
   ],
+  "bin": "index.js",
   "bugs": {
     "url": "https://github.com/mekb-turtle/image-to-terminal/issues"
   },
